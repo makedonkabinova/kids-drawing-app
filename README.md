@@ -5,11 +5,12 @@ Simple app for drawing for kids. Kids can draw on a plain sheet or on an existin
 ## Video Representation:
 
 [Watch the Video](./kids_drawing_app_pics/draw_video.mp4)
+![Example Video](./kids_drawing_app_pics/draw_gif.gif)
 
 Saved media examples:
 
 * Plain drawing
-[!Plain drawing](./kids_drawing_app_pics/plain_draw.jpg)
+![Plain drawing](./kids_drawing_app_pics/plain_draw.jpg)
 
 *Image drawing
-[!Image drawing](./kids_drawing_app_pics/image_draw.jpg)
+![Image drawing](./kids_drawing_app_pics/image_draw.jpg)
