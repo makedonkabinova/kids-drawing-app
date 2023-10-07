@@ -10,7 +10,7 @@ Simple app for drawing for kids. Kids can draw on a plain sheet or on an existin
 Saved media examples:
 
 * Plain drawing
-![Plain drawing](./kids_drawing_app_pics/plain_draw.jpg){width:200px}
+![Plain drawing](./kids_drawing_app_pics/plain_draw.jpg){ width:200px }
 
 * Image drawing
-![Image drawing](./kids_drawing_app_pics/image_draw.jpg){width:200px}
+![Image drawing](./kids_drawing_app_pics/image_draw.jpg){ width:200px }
